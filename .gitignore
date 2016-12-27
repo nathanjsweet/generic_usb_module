@@ -1,0 +1,10 @@
+.generic_usb.ko.cmd
+.generic_usb.mod.o.cmd
+.generic_usb.o.cmd
+.tmp_versions/
+Module.symvers
+generic_usb.ko
+generic_usb.mod.c
+generic_usb.mod.o
+generic_usb.o
+modules.order
